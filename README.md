@@ -2,7 +2,7 @@
 
 ## What’s with the hype?
 
-Markup : * Look at historical daily prices
+* Look at historical daily prices
 
 •	Look at historical daily prices
 •	How has it performance compared to the stock market?
