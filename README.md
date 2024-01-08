@@ -23,23 +23,23 @@ Subsequently, the data was filtered to identify any zero values, which were then
 
 Upon completing the table, only the values were copied and pasted.
 
-Comparing Data
+### Comparing Data
 Tab SP500
 A CAGR (Compound Annual Growth Rate) table was created to illustrate previous years' growth. The formula employed was =($E$7/$E$6)^(1/E14)-1. This calculates the CAGR by taking the current year's fund divided by the previous year, raising it to the power of the reciprocal of the number of years, and subtracting 1.
 
 The trendline indicates predictability.
 
-Tab BTC
+### Tab BTC
 Similar to the SP500, a tab for BTC was created. A new column comparing the CAGR of SP500 and BTC was added with the formula =D15/'SP500'!$D$12.
 
 The trendline suggests unpredictability and high volatility.
 
-Tab SP500_BTC
+### Tab SP500_BTC
 A table was generated to simulate the growth of a $1 investment from the beginning of the data. The formula used was =B3001/$B$3001. This involves dividing the earliest date's value by the value on the same date, and the results show the change in the dollar's value over time.
 
 The chart indicates the dollar staying relatively constant for SP500, while for BTC, it grew to over $7000.
 
-Tab Cryptos
+### Tab Cryptos
 This tab compares BTC, ETH, and LTC. The data is graphed for all three coins, with ETH and LTC graphed on a second axis to showcase their performance against BTC. A test from 2016 to 1/5/23 indicates that ETH outperformed BTC.
 
 Tab Cryptos vs SP 500
